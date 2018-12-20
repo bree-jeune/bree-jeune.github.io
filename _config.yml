@@ -1,11 +1,11 @@
 # Site settings
-author: Ebonne Young
-title: 
+author: Ebonne B Young
+title: Paramedic 2 Programmer
 header-img: img/home-bg.png
 email: e09_02@yahoo.com
-copyright_name: Ebonne Young
+copyright_name: Ebonne B Young
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Code Bash Stat
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: bree_jeune
 github_username:  bree-jeune
