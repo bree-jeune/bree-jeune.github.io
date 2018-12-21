@@ -1,11 +1,10 @@
 ---
 layout: post
 title:      "Why I Decided to Learn Programming?"
-date:       2018-12-21 09:42:54 +0000
+date:       2018-12-21 04:42:55 -0500
 permalink:  why_i_decided_to_learn_programming
 ---
 
-![](https://www.canva.com/design/DADMaVX_0r8/view)
 
 So after years of attempting to learn how to code on my own, I decided to go for it and apply to Flatiron’s Community-Powered Bootcamp. I’ll admit it is quite a commitment and investment, but I feel like its overdue.
 
